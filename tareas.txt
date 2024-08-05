@@ -1,0 +1,5 @@
+Explorar Frameworks y Librerías Modernas
+Aprender sobre Desarrollo Web Progresivo (PWA)
+Experimentar con Animaciones y Microinteracciones
+Mejorar las Habilidades de Accesibilidad Web (a11y)
+Explorar la Programación Funcional en JavaScript
